@@ -1,6 +1,14 @@
 # contrails_model_group
 Repo with code from model group of Opencampus course
 
+group members: 
+Jan Waller
+Desmond Hammond
+Albers Sandritter
+Julian Lohmann
+Fynn Junge
+Wang
+
 ### Folder 1
 Models working on Ash dataset and timestep 5
 
