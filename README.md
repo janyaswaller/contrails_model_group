@@ -17,3 +17,6 @@ Models working on created masks with all 8 timesteps
 
 ### Folder 3
 Post-Processing Exploration
+
+### Folder 4
+Lightning workflow to run single-band (-single-timestep)  experiment. (Also extention to arbitrary band-timestep combinations included in the code.)
